@@ -3,9 +3,6 @@
 */
 
 #include <windows.h>
-#include <gdiplus.h>
-
-#pragma comment (lib, "Gdiplus.lib")
 
 LRESULT CALLBACK WndProc(
     HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam)
